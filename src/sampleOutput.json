@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 686,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Lucas Ropek",
+    "title": "FTC to Companies: Patch Log4j ASAP or Suffer Our Wrath",
+    "description": "The Federal Trade Commission has a message for companies that aren’t taking the threat posed by log4j to heart: Patch up or lawyer up. Consider yourselves warned.Read more...",
+    "url": "https://gizmodo.com/ftc-to-companies-patch-log4j-asap-or-suffer-our-wrath-1848303300",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1915b28813e28dab3c5a834610e14f9d.jpg",
+    "publishedAt": "2022-01-05T02:05:00Z",
+    "content": "The Federal Trade Commission has a message for companies that arent taking the threat posed by log4j to heart: Patch up or lawyer up. Consider yourselves warned.\r\nBy now, youve surely heard of the af… [+2589 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "German cartel office examining Google, considering cases involving Amazon, Apple, Meta - Reuters",
+    "description": "Germany's cartel office said it had determined that Alphabet and its subsidiary Google met the scale threshold required for it to be subject to the new expanded supervisory powers it has been given to regulate digital companies.",
+    "url": "https://www.reuters.com/technology/german-cartel-office-examining-google-considering-cases-involving-amazon-apple-2022-01-05/",
+    "urlToImage": "https://www.reuters.com/resizer/w_7rUkSZ9E19hHtSA2YukE4U7B4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TDRY2FSOX5L55EUW3MXF4NLXM4.jpg",
+    "publishedAt": "2022-01-05T09:32:00Z",
+    "content": "BERLIN, Jan 5 (Reuters) - Germany's cartel office said it had determined that Alphabet and its subsidiary Google met the scale threshold required for it to be subject to the new expanded supervisory … [+672 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Taiwan December exports seen up for 18th straight month - Reuters",
+    "description": "Taiwan's exports likely rose for the 18th straight month in December, a Reuters poll showed, boosted by sustained demand for chips and hi-tech gadgets and the year-end shopping season.",
+    "url": "https://www.reuters.com/markets/asia/taiwan-december-exports-seen-up-18th-straight-month-2022-01-05/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+    "publishedAt": "2022-01-05T03:58:00Z",
+    "content": "TAIPEI, Jan 5(Reuters) - Taiwan's exports likely rose for the 18th straight month in December, a Reuters poll showed, boosted by sustained demand for chips and hi-tech gadgets and the year-end shoppi… [+1117 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Startup ONE says battery prototype delivered 750-mile range - Reuters",
+    "description": "Our Next Energy (ONE), a two-year-old Michigan startup, said on Wednesday it had tested a prototype of its new battery in a Tesla Model S, driving 752 miles (1,210 kilometers) before recharging.",
+    "url": "https://www.reuters.com/technology/startup-one-says-battery-prototype-delivered-750-mile-range-2022-01-05/",
+    "urlToImage": "https://www.reuters.com/resizer/IURgb7y7uThKC_RTSTxu2FpM8ww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JFSVVADVAJICJPHW75MH5SN5PE.jpg",
+    "publishedAt": "2022-01-05T05:14:00Z",
+    "content": "DETROIT, Jan 5 (Reuters) - Our Next Energy (ONE), a two-year-old Michigan startup, said on Wednesday it had tested a prototype of its new battery in a Tesla Model S, driving 752 miles (1,210 kilomete… [+1813 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Kuo: Apple's AR/VR Headset to Feature 'Pancake Lenses' Allowing for Lighter and More Compact Design",
+    "description": "Apple's widely-rumored AR/VR headset is coming at the end of 2022, with shipments to ramp up in the first quarter of 2023, according to analyst Ming-Chi Kuo. \n\n\n\n\n\nIn a research note with TF International Securities, obtained by MacRumors, Kuo said Apple's he…",
+    "url": "https://www.macrumors.com/2022/01/05/kuo-apple-headset-pancake-lenses/",
+    "urlToImage": "https://images.macrumors.com/t/4M5CqIlQyUKDIGHeeuAq-WaZYxI=/2006x/article-new/2021/03/apple-mixed-reality-headset-mockup-feature-purple.jpg",
+    "publishedAt": "2022-01-05T05:29:04Z",
+    "content": "Apple's widely-rumored AR/VR headset is coming at the end of 2022, with shipments to ramp up in the first quarter of 2023, according to analyst Ming-Chi Kuo. \r\nIn a research note with TF Internationa… [+640 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Apple's Third Potential Supplier of Mini-LED Display Chips Hits Certification Hurdle",
+    "description": "Apple's search for additional mini-LED display suppliers has hit a speed bump after its primary candidate's latest attempt to pass certification failed, according to a new industry report.\n\n\n\n\n\nApple's 2021 M1-powered 12.9-inch ‌iPad Pro‌ was the first Apple …",
+    "url": "https://www.macrumors.com/2022/01/05/apple-mini-led-supplier-hits-quality-hurdle/",
+    "urlToImage": "https://images.macrumors.com/t/6PPyzwpY4Zteqwwky9TbcZcjS1w=/1600x/article-new/2013/09/macbook-pro-sizes-space-gray.jpg",
+    "publishedAt": "2022-01-05T09:18:12Z",
+    "content": "Apple's search for additional mini-LED display suppliers has hit a speed bump after its primary candidate's latest attempt to pass certification failed, according to a new industry report.\r\nApple's 2… [+2105 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "CES 2022: Belkin Debuts New Find My-Compatible Soundform Noise Cancelling Earbuds",
+    "description": "Belkin today introduced new high-end Soundform earbuds, which offer Hybrid Active Noise Cancellation and integration with Apple's Find My app.\n\n\n\n\n\nAccording to Belkin, the Soundform Immerse Noise Cancelling Earbuds are the company's top-of-the-line audio sol…",
+    "url": "https://www.macrumors.com/2022/01/04/belkin-soundform-find-my-earbuds/",
+    "urlToImage": "https://images.macrumors.com/t/Z-x4SWSpThzWVShttOPjIzXaOhc=/2000x/article-new/2021/12/belkin-soundform-earbuds-anc-2.jpg",
+    "publishedAt": "2022-01-05T03:02:00Z",
+    "content": "Belkin today introduced new high-end Soundform earbuds, which offer Hybrid Active Noise Cancellation and integration with Apple's Find My app.\r\nAccording to Belkin, the Soundform Immerse Noise Cancel… [+1245 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "CES 2022: Wemo Lineup Gains HomeKit Secure Video-Compatible Smart Doorbell",
+    "description": "Belkin's Wemo brand is gaining a new Wemo Smart Video Doorbell, which is a camera-equipped doorbell option that supports HomeKit Secure Video. The Wemo Smart Video Doorbell offers a 4-megapixel high-resolution camera with a 178-degree field of view, zoom func…",
+    "url": "https://www.macrumors.com/2022/01/04/wemo-homekit-video-doorbell/",
+    "urlToImage": "https://images.macrumors.com/t/T8hRNkatklh-y7krnePDI34-6Ms=/2000x/article-new/2021/12/belkin-wemo-doorbell.jpg",
+    "publishedAt": "2022-01-05T03:00:00Z",
+    "content": "Belkin's Wemo brand is gaining a new Wemo Smart Video Doorbell, which is a camera-equipped doorbell option that supports HomeKit Secure Video. The Wemo Smart Video Doorbell offers a 4-megapixel high-… [+1723 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Entrepreneur"
+    },
+    "author": "Jurgita Lapienytė",
+    "title": "The future of the internet: will we ever cease to be a commodity?",
+    "description": "With big tech firmly holding the grip of the internet and us being so used to free internet that privacy isn't that much of a concern, can Web 3.0 take...",
+    "url": "https://www.entrepreneur.com/article/411551",
+    "urlToImage": "https://assets.entrepreneur.com/providers/cybernews/hero-image-cybernews-411551.jpeg",
+    "publishedAt": "2022-01-05T08:42:00Z",
+    "content": "We got used to being a commodity as long as services like Facebook are free. But the dawning Web 3.0 era is about to revolutionize todays internet, and hopefully put us back in control of our data an… [+7187 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "The Conversation",
+    "title": "Contrary to popular belief, middle-aged entrepreneurs do better",
+    "description": "Bill Gates was 21 when he and Paul Allen registered Microsoft. Steve Jobs was 22 when he and Steve Wozniak launched Apple. Mark Zuckerberg started Facebook in his Harvard dormitory. The biographies of these tech billionaires who achieved great success in thei…",
+    "url": "https://thenextweb.com/news/why-older-entrepreneurs-do-better",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Folder-ceo.jpeg&signature=206b00ec8bc28b878832d4a76f7fe9a3",
+    "publishedAt": "2022-01-05T09:00:46Z",
+    "content": "Bill Gates was 21 when he and Paul Allen registered Microsoft. Steve Jobs was 22 when he and Steve Wozniak launched Apple. Mark Zuckerberg started Facebook in his Harvard dormitory.\r\nThe biographies … [+4236 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "OnePlus 10 Pro: una bestia de gama alta que carga más rápido que nunca",
+    "description": "OnePlus acaba de anunciar las principales especificaciones y características del OnePlus 10 Pro, su modelo más alto de gama para 2022. Se trata de una evolución respecto al OnePlus 9 Pro que vimos el año pasado, repitiendo con Hasselblad para la cámara y mont…",
+    "url": "https://www.xataka.com/moviles/oneplus-10-pro-caracteristicas-precio-ficha-tecnica",
+    "urlToImage": "https://i.blogs.es/8028cb/2-green-headshot/840_560.jpg",
+    "publishedAt": "2022-01-05T01:00:28Z",
+    "content": "OnePlus acaba de anunciar las principales especificaciones y características del OnePlus 10 Pro, su modelo más alto de gama para 2022. Se trata de una evolución respecto al OnePlus 9 Pro que vimos el… [+2636 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Alexei Oreskovic",
+    "title": "Google deploying planes over cities for 3D maps",
+    "description": "Google Inc is deploying a fleet of small, camera-equipped airplanes above several cities, the Internet search company's latest step in its ambitious and sometimes controversial plan to create a digital map of the world.",
+    "url": "https://www.reuters.com/article/us-google-maps-idUSBRE85516020120606",
+    "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20120606&t=2&i=615880609&r=CBRE8551G6N00&w=800",
+    "publishedAt": "2022-01-05T09:55:46Z",
+    "content": "SAN FRANCISCO (Reuters) - Google Inc is deploying a fleet of small, camera-equipped airplanes above several cities, the Internet search companys latest step in its ambitious and sometimes controversi… [+4144 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Sammelklage: Google bezahlt Apple für Abstinenz vom Suchgeschäft",
+    "description": "In den USA läuft ein ungewöhnlicher Rechtsstreit: Er soll erreichen, dass Google und Apple ihre Suchpartnerschaft aufgeben – denn die sei wettbewerbswidrig.",
+    "url": "https://www.heise.de/news/Sammelklage-Google-bezahlt-Apple-um-aus-dem-Suchgeschaeft-herauszubleiben-6318041.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/5/0/7/2/7/brett-jordan-B_j4LJbam5U-unsplash-937b8023fdbbb647.jpg",
+    "publishedAt": "2022-01-05T09:04:00Z",
+    "content": "Apple und Google samt ihrer jeweiligen Chefs sind in den USA mit einer Sammelklage überzogen worden, weil sie gemeinsam angeblich ein Suchkartell beim iPhone vereinbart haben. Die Erstklägerin, eine … [+2179 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Christof Windeck",
+    "title": "Bit-Rauschen, der Prozessor-Podcast: Diese Chips werden 2022 wichtig",
+    "description": "Neues Jahr, neue Chips: Im Audio-Podcast Bit-Rauschen 2022/1 blicken wir voraus, welche Prozessoren und Grafikchips AMD, Intel, Apple, Nvidia & Co 2022 bringen.",
+    "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Diese-Chips-werden-2022-wichtig-6203431.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/1/7/5/5/2/8/Bit-Rauschen-Podcast_Folge_1-6efc0df01acc9926.jpeg",
+    "publishedAt": "2022-01-05T05:30:00Z",
+    "content": "Bit-Rauschen der Prozessor-Podcast von ct\r\nDen zweiwöchentlichen Prozessor-Podcast von ct gibt es ...\r\nDie Messe CES in Las Vegas eröffnet auch 2022 den jährlichen Reigen an Veranstaltungen, auf dene… [+1087 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Intel claims the new Core i9 processor is faster than the Apple M1 Max – but that doesn’t mean much",
+    "description": "While Intel on Tuesday announced a new way to integrate iPhone with Windows PCs, the company also unveiled the 12th generation of its mobile processors focused on laptops and smaller computers. According to Intel, the new Core i9 processor is faster than the …",
+    "url": "https://9to5mac.com/2022/01/04/intel-claims-the-new-core-i9-processor-is-faster-than-the-apple-m1-max-but-that-doesnt-mean-much/",
+    "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Intel-now-thinks-it-can-beat-Apple-Silicon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-05T02:02:42Z",
+    "content": "While Intel on Tuesday announced a new way to integrate iPhone with Windows PCs, the company also unveiled the 12th generation of its mobile processors focused on laptops and smaller computers. Accor… [+1921 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Kuo: Apple’s mixed reality headset to be released in late 2022 with limited supplies",
+    "description": "If all the rumors are correct, 2022 is the year when Apple will finally introduce its own mixed reality headset. As we learn more about the product, technology analyst Ming-Chi Kuo believes that Apple’s headset will be released in late 2022 with limited suppl…",
+    "url": "https://9to5mac.com/2022/01/04/kuo-apples-mixed-reality-headset-to-be-released-in-late-2022-with-limited-supplies/",
+    "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/Render.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-05T05:58:16Z",
+    "content": "If all the rumors are correct, 2022 is the year when Apple will finally introduce its own mixed reality headset. As we learn more about the product, technology analyst Ming-Chi Kuo believes that Appl… [+1514 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple's plan to add more mini LED suppliers delayed",
+    "description": "Sanan Optoelectronics has failed to gain certification from Apple over its mini LED manufacturing, so for now won't making the display technology for iPad and other devices.The 2021 12.9-inch iPad Pro was the first major Apple product to use mini LED backligh…",
+    "url": "https://appleinsider.com/articles/22/01/05/apples-plan-to-add-more-mini-led-suppliers-delayed",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/40443-82084-42211-81929-Liquid-Retina-XDR-Display-on-129-inch-iPad-Pro-xl-xl.jpg",
+    "publishedAt": "2022-01-05T10:43:52Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1482 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple AR supplier to make lenses for Oculus Quest 3, says Kuo",
+    "description": "Analyst Ming-Chi Kuo reports that delays to the forthcoming Apple AR headset, will help lens supplier Genius, which has now also had orders for Meta's Oculus update.Reiterating his previous claim that Apple has pushed production of its first headset to the en…",
+    "url": "https://appleinsider.com/articles/22/01/05/apple-ar-supplier-to-make-lenses-for-oculus-quest-3-says-kuo",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/46253-90102-headset-ai-xl.jpg",
+    "publishedAt": "2022-01-05T07:50:55Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1699 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "CES Unveiled: Best smart home tech",
+    "description": "CES Unveiled was a bit sparsely attended this year as Covid reared its head, but we still found a few new smart home products that we found interesting on the show floor.CES 2022 is underwayMoen Read more...",
+    "url": "https://appleinsider.com/articles/22/01/05/ces-unveiled-best-smart-home-tech",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/46359-90334-CES-Convention-Hall-xl.jpg",
+    "publishedAt": "2022-01-05T01:10:49Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+5032 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "Belkin introduces new HomeKit Secure Video doorbell, new Matter-ready devices at CES 2022",
+    "description": "During the annual Consumer Electronics Show , Belkin has unveiled several new updates to its HomeKit-compatible Wemo line, including an all-new HomeKit Secure Video smart doorbell.Wemo Smart Video DoorbellThe new Wemo Smart Video Doorbell has a large 178-degr…",
+    "url": "https://appleinsider.com/articles/22/01/05/belkin-introduces-new-homekit-secure-video-doorbell-new-matter-ready-devices-at-ces-2022",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/46343-90318-Wemo-Smart-Video-Doorbell-xl.jpg",
+    "publishedAt": "2022-01-05T03:00:20Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+2028 chars]"
+    }
+    ]
+    }
